@@ -1792,7 +1792,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #b1ddab;
+		background: #ddabab;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -1830,7 +1830,7 @@ input, select, textarea {
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #c1cac5;
+			background: #cac1c1;
 		}
 
 			input[type="button"].alt:hover,
@@ -1947,7 +1947,7 @@ input, select, textarea {
 				height: 48px;
 				border-radius: 6px;
 				outline: 0;
-				background: #c1cac5;
+				background: #cac1c1;
 				text-align: center;
 			}
 
@@ -2036,7 +2036,7 @@ input, select, textarea {
 			}
 
 				ul.special li:hover a:before {
-					background: #b9d2ce;
+					background: #d2b9b9;
 				}
 
 /* Meta */
