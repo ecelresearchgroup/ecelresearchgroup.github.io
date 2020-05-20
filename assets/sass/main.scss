@@ -355,7 +355,7 @@
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #b1ddab;
+		background: #ddabab;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -372,22 +372,22 @@
 		text-align: center;
 
 		&:hover {
-			background: #c1edbb;
+			background: #edbbbb;
 		}
 
 		&:active {
-			background: #a1cd9b;
+			background: #cd9b9b;
 		}
 
 		&.alt {
-			background: #c1cac5;
+			background: #cac1c1;
 
 			&:hover {
 				background: #ccd5d0;
 			}
 
 			&:active {
-				background: #b1bab5;
+				background: #bab1b1;
 			}
 		}
 
@@ -645,7 +645,7 @@
 			border: solid 2px #E7EAE8;
 
 			&:focus {
-				border-color: #a1cd9b;
+				border-color: #cd9b9b;
 			}
 		}
 
@@ -710,7 +710,7 @@
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
-				color: #6b7770;
+				color: #776b6b;
 			}
 
 			thead {
@@ -1374,7 +1374,7 @@
 
 					&:active {
 						&:before {
-							background-color: #a1cd9b;
+							background-color: #cd9b9b;
 						}
 					}
 				}

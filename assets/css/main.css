@@ -2078,7 +2078,7 @@ input, select, textarea {
 	}
 
 		ul.menu li {
-			border-left: solid 1px #E7EAE8;
+			border-left: solid 1px rgb(234, 231, 231);
 			display: inline-block;
 			padding: 0 0 0 0.75em;
 			margin: 0 0 0 0.75em;
@@ -2488,7 +2488,7 @@ input, select, textarea {
 
 		#banner .content {
 			position: relative;
-			background-color: rgba(21, 28, 23, 0.85);
+			background-color: rgba(28, 21, 21, 0.85);
 			background-image: url("images/overlay.png"), url("images/highlight.png");
 			background-position: top left, center center;
 			background-size: auto, 100% 250%;
@@ -2509,7 +2509,7 @@ input, select, textarea {
 				font-family: 'Open Sans Condensed', sans-serif;
 				font-weight: 700;
 				text-transform: uppercase;
-				color: #575d59;
+				color: #5d5757;
 				font-size: 1.35em;
 				margin: 0 0 1.25em 0;
 			}
@@ -2528,7 +2528,7 @@ input, select, textarea {
 
 				#banner .content .button:hover {
 					color: #e4e7e5;
-					border-color: rgba(87, 93, 89, 0.75);
+					border-color: rgba(93, 87, 87, 0.75);
 				}
 
 				#banner .content .button:active {
@@ -2540,7 +2540,7 @@ input, select, textarea {
 
 	#main {
 		background: #fff;
-		border-top: solid 5px #b1ddab;
+		border-top: solid 5px #ddadab;
 		border-bottom: solid 5px #c1cac5;
 		border-top-width: 35px;
 		border-bottom-width: 10px;
@@ -2834,7 +2834,7 @@ input, select, textarea {
 					}
 
 					#titleBar .toggle:active:before {
-						background-color: #a1cd9b;
+						background-color: #cd9b9b;
 					}
 
 			#navPanel {
