@@ -2407,12 +2407,12 @@ input, select, textarea {
 			}
 
 			#nav li.active a, #nav li.active span {
-				background: #C1CAC5;
+				background: rgb(202, 193, 193);
 				color: #fff;
 			}
 
 			#nav li.current a {
-				background: #b1ddab;
+				background: #ddabab;
 				color: #fff;
 			}
 
@@ -2541,7 +2541,7 @@ input, select, textarea {
 	#main {
 		background: #fff;
 		border-top: solid 5px #ddadab;
-		border-bottom: solid 5px #c1cac5;
+		border-bottom: solid 5px #cac1c1;
 		border-top-width: 35px;
 		border-bottom-width: 10px;
 		padding: 6em 0 6em 0;
@@ -2584,7 +2584,7 @@ input, select, textarea {
 		background: #e7eae8;
 		padding: 0.75em 2em 0.75em 2em;
 		border-radius: 8px;
-		color: #8b9790;
+		color: #978b8b;
 		margin: 4em 0 0 0;
 	}
 
