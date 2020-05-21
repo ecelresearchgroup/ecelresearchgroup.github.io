@@ -2488,7 +2488,7 @@ input, select, textarea {
 
 		#banner .content {
 			position: relative;
-			background-color: rgb(255, 255, 255);
+			background-color: rgba(255, 255, 255, 0.493);
 			background-image: url("images/overlay.png"), url("images/highlight.png");
 			background-position: top left, center center;
 			background-size: auto, 100% 250%;
@@ -2519,7 +2519,7 @@ input, select, textarea {
 				-webkit-transition: border-color .2s ease-in-out, color .2s ease-in-out;
 				-ms-transition: border-color .2s ease-in-out, color .2s ease-in-out;
 				transition: border-color .2s ease-in-out, color .2s ease-in-out;
-				color: #ffffff;
+				color: #5c5b5b;
 				background: transparent !important;
 				border: solid 4px #575d59;
 				border-color: rgba(87, 93, 89, 0.35);
@@ -2527,7 +2527,7 @@ input, select, textarea {
 			}
 
 				#banner .content .button:hover {
-					color: #ffffff;
+					color: #4b4949;
 					border-color: rgba(93, 87, 87, 0.75);
 				}
 
