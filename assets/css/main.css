@@ -2498,8 +2498,8 @@ input, select, textarea {
 			padding: 4em 0 3.5em 0;
 		}
 
-			#banner .content h2 {
-				color: #fff;
+			#banner .content h1 {
+				color: rgb(0, 0, 0);
 				font-size: 2.75em;
 				margin: 0 0 0.5em 0;
 			}
