@@ -1792,7 +1792,7 @@ input, select, textarea {
 		font-weight: 700;
 		text-transform: uppercase;
 		text-decoration: none;
-		background: #ddabab;
+		background: #ff8484;
 		color: #fff;
 		border: 0;
 		line-height: 1em;
@@ -2098,7 +2098,7 @@ input, select, textarea {
 		font-family: 'Open Sans Condensed', sans-serif;
 		font-weight: 700;
 		text-transform: uppercase;
-		color: #6b7770;
+		color: #776b6b;
 	}
 
 	form input[type="text"],
@@ -2118,7 +2118,7 @@ input, select, textarea {
 		form input[type="password"]:focus,
 		form select:focus,
 		form textarea:focus {
-			border-color: #a1cd9b;
+			border-color: #cd9b9b;
 		}
 
 	form input[type="text"],
@@ -2412,7 +2412,7 @@ input, select, textarea {
 			}
 
 			#nav li.current a {
-				background: #ddabab;
+				background: #ff8484;
 				color: #fff;
 			}
 
@@ -2446,12 +2446,12 @@ input, select, textarea {
 
 			.dropotron li:hover > a, .dropotron li:hover > span {
 				color: #fff;
-				background: #7B8780;
+				background: rgb(135, 123, 123);
 			}
 
 			.dropotron li.active > a, .dropotron li.active > span {
 				color: #fff;
-				background: #7B8780;
+				background: rgb(135, 123, 123);
 			}
 
 			.dropotron li:first-child {
@@ -2469,7 +2469,7 @@ input, select, textarea {
 				left: 50%;
 				margin-left: -1em;
 				top: -0.65em;
-				border-bottom: solid 1em #6B7770;
+				border-bottom: solid 1em rgb(119, 107, 107);
 				border-left: solid 1em transparent;
 				border-right: solid 1em transparent;
 			}
@@ -2540,7 +2540,7 @@ input, select, textarea {
 
 	#main {
 		background: #fff;
-		border-top: solid 5px #ddadab;
+		border-top: solid 5px #ff8484;
 		border-bottom: solid 5px #cac1c1;
 		border-top-width: 35px;
 		border-bottom-width: 10px;
